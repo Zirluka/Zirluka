@@ -19,11 +19,11 @@
 
 > *"Why do I have to save trash like you?"* — Kaneki Ken
 
-- **Code:** Zirluka
-- **Role:** Backend / Fullstack Developer
-- **Focus:** Чистая архитектура API, проектирование БД и отзывчивый интерфейс
-- **Active Task:** Проект **ZipLink** (сокращение ссылок, QR-генерация, аналитика)
-- **Target:** Освоение **TypeScript** и тонкая оптимизация **PostgreSQL**
+- **Кодовое имя:** Zirluka
+- **Роль:** Backend / Fullstack Developer
+- **Фокус:** Чистая архитектура API, проектирование БД и отзывчивый интерфейс
+- **Активные задачи:** Проект **ZipLink** (сокращение ссылок, QR-генерация, аналитика)
+- **Цель:** Освоение **TypeScript** и тонкая оптимизация **PostgreSQL**
 
 ---
 
@@ -51,7 +51,7 @@
 
 ### 🎯 В разработке: ZipLink
 
-**🔗 ZipLink** — сервис управления URL, аналитики переходов и генерации QR-кодов.
+**🔗 ZipLink** — сервис сокращения и управления URL, аналитики переходов и генерации QR-кодов.
 - **Стек:** Laravel API + PostgreSQL + Vue.js SPA
 - **Статус:** ![In Development](https://img.shields.io/badge/Status-Active_Development-990000?style=flat-square)
 
@@ -61,7 +61,7 @@
 
 ```
 [ PROTOCOL 01: ARCHITECTURE ] -> Четкое разделение слоев: контроллеры только маршрутизируют, бизнес-логика изолирована в сервисах.
-[ PROTOCOL 02: DATABASE ]     -> Строгие внешние ключи, индексация узких мест и отсутствие N+1 запросов.
+[ PROTOCOL 02:   DATABASE   ] -> Строгие внешние ключи, индексация узких мест и отсутствие N+1 запросов.
 [ PROTOCOL 03: API CONTRACT ] -> Предсказуемые REST-ответы, валидация через Form Requests и строгая типизация DTO.
 [ PROTOCOL 04: CODE QUALITY ] -> DRY, KISS и соблюдение стандартов PSR-12 без компромиссов.
 ```
