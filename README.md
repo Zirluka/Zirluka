@@ -1,4 +1,3 @@
-# Zirluka // Black Reaper
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,24&height=160&section=header&text=ZIRLUKA&fontSize=50&fontColor=ffffff" width="100%" alt="Header" />
