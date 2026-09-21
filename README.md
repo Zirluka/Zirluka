@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+  <a href="https://t.me/ZirlukaWWest" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=red" alt="Telegram" />
   </a>
 </p>
