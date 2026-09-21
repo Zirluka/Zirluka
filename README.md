@@ -9,11 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM">
+  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=red" alt="Telegram" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=red" alt="LinkedIn" />
   </a>
 </p>
 
@@ -34,22 +31,22 @@
 ### ⚔️ Технологический стек
 
 **Backend & Базы данных**  
-![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=e50914)
-![Laravel](https://img.shields.io/badge/Laravel-1a1a1a?style=for-the-badge&logo=laravel&logoColor=e50914)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=e50914)
-![REST API](https://img.shields.io/badge/REST_API-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=e50914)
+[![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=e50914)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-1a1a1a?style=for-the-badge&logo=laravel&logoColor=e50914)](https://laravel.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=e50914)](https://www.postgresql.org/)
+[![REST API](https://img.shields.io/badge/REST_API-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=e50914)](https://restfulapi.net/)
 
 **Frontend**  
-![Vue.js](https://img.shields.io/badge/Vue.js-1a1a1a?style=for-the-badge&logo=vuedotjs&logoColor=e50914)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=e50914)
-![TypeScript](https://img.shields.io/badge/TypeScript_(Planned)-1a1a1a?style=for-the-badge&logo=typescript&logoColor=gray)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=e50914)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=e50914)
+[![Vue.js](https://img.shields.io/badge/Vue.js-1a1a1a?style=for-the-badge&logo=vuedotjs&logoColor=e50914)](https://vuejs.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=e50914)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript_(Planned)-1a1a1a?style=for-the-badge&logo=typescript&logoColor=gray)](https://www.typescriptlang.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=e50914)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=e50914)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 **Инструменты**  
-![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=e50914)
-![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=e50914)
-![Postman](https://img.shields.io/badge/Postman-1a1a1a?style=for-the-badge&logo=postman&logoColor=e50914)
+[![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=e50914)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=e50914)](https://www.docker.com/)
+[![Postman](https://img.shields.io/badge/Postman-1a1a1a?style=for-the-badge&logo=postman&logoColor=e50914)](https://www.postman.com/)
 
 ---
 
@@ -61,12 +58,14 @@
 
 ---
 
-### 📊 Статистика активности
+### 📜 Боевые протоколы // Development Directives
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zirluka&show_icons=true&theme=blood_dark&hide_border=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zirluka&layout=compact&theme=blood_dark&hide_border=true" alt="Top Langs" height="160" />
-</p>
+```
+[ PROTOCOL 01: ARCHITECTURE ] -> Четкое разделение слоев: контроллеры только маршрутизируют, бизнес-логика изолирована в сервисах.
+[ PROTOCOL 02: DATABASE ]     -> Строгие внешние ключи, индексация узких мест и отсутствие N+1 запросов.
+[ PROTOCOL 03: API CONTRACT ] -> Предсказуемые REST-ответы, валидация через Form Requests и строгая типизация DTO.
+[ PROTOCOL 04: CODE QUALITY ] -> DRY, KISS и соблюдение стандартов PSR-12 без компромиссов.
+```
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Zirluka&theme=blood-dark&hide_border=true" alt="GitHub Streak" />
