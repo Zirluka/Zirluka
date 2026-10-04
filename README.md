@@ -49,14 +49,6 @@
 
 ---
 
-### 🎯 В разработке: ZipLink
-
-**🔗 ZipLink** — сервис сокращения и управления URL, аналитики переходов и генерации QR-кодов.
-- **Стек:** Laravel API + PostgreSQL + Vue.js SPA
-- **Статус:** ![In Development](https://img.shields.io/badge/Status-Active_Development-990000?style=flat-square)
-
----
-
 ### 📜 Боевые протоколы // Development Directives
 
 ```
