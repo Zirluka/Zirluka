@@ -30,6 +30,7 @@
 ### ⚔️ Технологический стек
 
 **Backend & Базы данных**  
+[![Golang](https://img.shields.io/badge/GOLANG%20(LEARNING)-1a1a1a?style=for-the-badge&logo=go&logoColor=gray)](https://go.dev/)
 [![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=e50914)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/Laravel-1a1a1a?style=for-the-badge&logo=laravel&logoColor=e50914)](https://laravel.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=e50914)](https://www.postgresql.org/)
